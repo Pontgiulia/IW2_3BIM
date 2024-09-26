@@ -3,11 +3,11 @@ import styles from "./Category.module.css";
 
 
 export const categorias = [
-"Geografia",
-"Como fazer e usar",
-"Astronomia e Geografia",
-"Climatologia, Meteorologia, Vegetação",
-"Geologia e Hidrografia"
+"Frogg",
+"Scottonauta",
+"Umild",
+"Keller",
+"Tiba"
 ]
 
 export function filterCategory(id){
