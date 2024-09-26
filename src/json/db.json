@@ -49,6 +49,8 @@
       "category": "Frogg"
     },
 
+
+
     {
         "id": "zLh117coXb0",
         "title": "ANALISANDO OS TIKTOKS DO OPERA GX (ESSES MEMES SÃO REAIS?) (ft. Ycro e Tiba)",
@@ -91,12 +93,64 @@
       "cover": "https://img.youtube.com/vi/CE0cYghQkeo/maxresdefault.jpg",
       "category": "Scottonauta"
     },
-    
+
     {
       "id": "DooleZYOmLA",
       "title": "MEDOS DE ADULTOS (ft. Umild e Tiba)",
       "url": "https://www.youtube.com/watch?v=DooleZYOmLA",
       "cover": "https://img.youtube.com/vi/DooleZYOmLA/maxresdefault.jpg",
       "category": "Scottonauta"
-    }
+    },
+
+
+
+    {
+        "id": "rT6P5lix6_g",
+        "title": "VÍDEOS POSSUÍDOS PELO DEMÔNIO (Ft. Keller e Kojj)",
+        "url": "https://www.youtube.com/watch?v=rT6P5lix6_g",
+        "cover": "https://img.youtube.com/vi/rT6P5lix6_g/maxresdefault.jpg",
+        "category": "Umild"
+      },
+      {
+        "id": "mShoXM-I4Jg",
+        "title": "REVIEWS DE MER** (Ft. Scottonauta e Tiba)",
+        "url": "https://www.youtube.com/watch?v=mShoXM-I4Jg",
+        "cover": "https://img.youtube.com/vi/mShoXM-I4Jg/maxresdefault.jpg",
+        "category": "Umild"
+      },
+      {
+        "id": "keEd3kUHYcQ",
+        "title": "VISITEI SITES BIZARROS com meus amigos (Ft. Keller e Akino)",
+        "url": "https://www.youtube.com/watch?v=keEd3kUHYcQ",
+        "cover": "https://img.youtube.com/vi/keEd3kUHYcQ/maxresdefault.jpg",
+        "category": "Umild"
+      },
+      {
+        "id": "LzI574ANDAs",
+        "title": "esses BRINQUEDOS me ENGANARAM (Ft.Kojj)",
+        "url": "https://www.youtube.com/watch?v=LzI574ANDAs",
+        "cover": "https://img.youtube.com/vi/LzI574ANDAs/maxresdefault.jpg",
+        "category": "Umild"
+      },
+      {
+        "id": "qx-OhRt2KEo",
+        "title": "'virei WEB SUGARBABY' (Ft. Scott e Akino)",
+        "url": "https://www.youtube.com/watch?v=qx-OhRt2KEo",
+        "cover": "https://img.youtube.com/vi/qx-OhRt2KEo/maxresdefault.jpg",
+        "category": "Umild"
+      },
+      {
+        "id": "w4XXGKlslfA",
+        "title": "ATÉ QUE FAZ SENTIDO (Ft. Scottonauta e Tiba)",
+        "url": "https://www.youtube.com/watch?v=w4XXGKlslfA",
+        "cover": "https://img.youtube.com/vi/w4XXGKlslfA/maxresdefault.jpg",
+        "category": "Umild"
+      },
+      {
+        "id": "U2Kkka3lycE",
+        "title": "A HUMANIDADE PRECISA ACABAR (Ft. Scott e Tiba)",
+        "url": "https://www.youtube.com/watch?v=U2Kkka3lycE",
+        "cover": "https://img.youtube.com/vi/U2Kkka3lycE/maxresdefault.jpg",
+        "category": "Umild"
+      }
 ]
