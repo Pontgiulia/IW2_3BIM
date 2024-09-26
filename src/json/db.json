@@ -47,5 +47,56 @@
       "cover": "https://img.youtube.com/vi/ANSExF1gMag/maxresdefault.jpg",
       "url": "https://www.youtube.com/watch?v=ANSExF1gMag",
       "category": "Frogg"
+    },
+
+    {
+        "id": "zLh117coXb0",
+        "title": "ANALISANDO OS TIKTOKS DO OPERA GX (ESSES MEMES SÃO REAIS?) (ft. Ycro e Tiba)",
+        "url": "https://www.youtube.com/watch?v=zLh117coXb0",
+        "cover": "https://img.youtube.com/vi/zLh117coXb0/maxresdefault.jpg",
+        "category": "Scottonauta"
+    },
+    {
+        "id": "Zr7Hc_grdCA",
+        "title": "COISAS DE OUTRO PLANETA (ft. Tiba e Keller)",
+        "url": "https://www.youtube.com/watch?v=Zr7Hc_grdCA",
+        "cover": "https://img.youtube.com/vi/Zr7Hc_grdCA/maxresdefault.jpg",
+        "category": "Scottonauta"
+    },
+    {
+        "id": "CtCVH1yTruM",
+        "title": "MEMES PRA MANDAR NO ZAP (ft. Tiba e Umild)",
+        "url": "https://www.youtube.com/watch?v=CtCVH1yTruM",
+        "cover": "https://img.youtube.com/vi/CtCVH1yTruM/maxresdefault.jpg",
+        "category": "Scottonauta"
+    },
+    {
+        "id": "oioR7wPRMUE",
+        "title": "POSTS EM MEMÓRIA DO TWITTER (ft. Keller e Akino)",
+        "url": "https://www.youtube.com/watch?v=oioR7wPRMUE",
+        "cover": "https://img.youtube.com/vi/oioR7wPRMUE/maxresdefault.jpg",
+        "category": "Scottonauta"
+    },
+    {
+        "id": "0zyjkSl_c8A",
+        "title": "ISSO É LITERALMENTE EU (ft. Umild e Akino)",
+        "url": "https://www.youtube.com/watch?v=0zyjkSl_c8A",
+        "cover": "https://img.youtube.com/vi/0zyjkSl_c8A/maxresdefault.jpg",
+        "category": "Scottonauta"
+    },
+    {
+      "id": "CE0cYghQkeo",
+      "title": "COMO QUE EXPLICA? (ft. Umild e Tiba)",
+      "url": "https://www.youtube.com/watch?v=CE0cYghQkeo",
+      "cover": "https://img.youtube.com/vi/CE0cYghQkeo/maxresdefault.jpg",
+      "category": "Scottonauta"
+    },
+    
+    {
+      "id": "DooleZYOmLA",
+      "title": "MEDOS DE ADULTOS (ft. Umild e Tiba)",
+      "url": "https://www.youtube.com/watch?v=DooleZYOmLA",
+      "cover": "https://img.youtube.com/vi/DooleZYOmLA/maxresdefault.jpg",
+      "category": "Scottonauta"
     }
 ]
