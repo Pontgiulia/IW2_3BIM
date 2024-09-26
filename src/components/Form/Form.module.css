@@ -17,7 +17,7 @@
 
     width: 50%;
     max-width: 90%;
-    background-color: #333333;
+    background-color: #1C1B23;
     border-radius: 20px;
     padding: 36px 64px;
     font-size: 1.5rem;
@@ -32,7 +32,7 @@
 
 .container input, .container select{
 
-    background-color: #fff;
+    background-color: #C9F5AA;
     width: 100%;
     padding: 15px 5px;
     margin-bottom: 0.5rem;
@@ -45,7 +45,7 @@
 
 .container button{
 
-    background-color: #b71c1c;
+    background-color: #04D99D;
     border-radius: 10px;
     font-weight: 600;
     font-size: 1.3rem;
@@ -60,7 +60,7 @@
 }
 
 .container button:hover{
-    background-color: #f44336;
+    background-color: #04D99D;
 }
 
 @media (max-width: 730px) {

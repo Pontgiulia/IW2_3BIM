@@ -1,15 +1,51 @@
 [
     {
         "id": "D7ItEz961ac",
-      "title": "O JOGO DA APROXIMAÇÃO",
-      "url": "https://www.youtube.com/watch?v=D7ItEz961ac",
-      "cover": "https://img.youtube.com/vi/D7ItEz961ac/maxresdefault.jpg"
+        "title": "O JOGO DA APROXIMAÇÃO",
+        "url": "https://www.youtube.com/watch?v=D7ItEz961ac",
+        "cover": "https://img.youtube.com/vi/D7ItEz961ac/maxresdefault.jpg",
+        "category": "Frogg"
     },
     {
-        "id": "EhBwREmJ8fQ&t",
-        "title": "QUEM É O MAIS PROVÁVEL?",
-        "url": "https://www.youtube.com/watch?v=EhBwREmJ8fQ&t=666s",
-        "cover": "https://img.youtube.com/vi/EhBwREmJ8fQ&t/maxresdefault.jpg",
+        "id": "G_-LJ2ryqCM",
+        "title": "ACERTE A MÚSICA PELO EMOJI!",
+        "url": "https://www.youtube.com/watch?v=G_-LJ2ryqCM",
+        "cover": "https://img.youtube.com/vi/G_-LJ2ryqCM/maxresdefault.jpg",
         "category": "Frogg"
+    },
+    {
+        "id": "KOUePOqstAw",
+        "title": "O JOGO DA NOTA",
+        "url": "https://www.youtube.com/watch?v=KOUePOqstAw",
+        "cover": "https://img.youtube.com/vi/KOUePOqstAw/maxresdefault.jpg",
+        "category": "Frogg"
+    },
+    {
+        "id": "urajxeOnD9w",
+        "title": "ACERTANDO O FILME PELO EMOJI!",
+        "url": "https://www.youtube.com/watch?v=urajxeOnD9w",
+        "cover": "https://img.youtube.com/vi/urajxeOnD9w/maxresdefault.jpg",
+        "category": "Frogg"
+    },
+    {
+        "id": "EhBwREmJ8fQ",
+        "title": "QUEM É O MAIS PROVÁVEL?",
+        "url": "https://www.youtube.com/watch?v=EhBwREmJ8fQ",
+        "cover": "https://img.youtube.com/vi/EhBwREmJ8fQ/maxresdefault.jpg",
+        "category": "Frogg"
+    },
+    {
+      "id": "Uvj2Nl7pI9Y",
+      "title": "ENCONTROS HORRÍVEIS COM A FROGG",
+      "cover": "https://img.youtube.com/vi/Uvj2Nl7pI9Y/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=Uvj2Nl7pI9Y",
+      "category": "Frogg"
+    },
+    {
+      "id": "ANSExF1gMag",
+      "title": "FROGG NA BGS 2023",
+      "cover": "https://img.youtube.com/vi/ANSExF1gMag/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=ANSExF1gMag",
+      "category": "Frogg"
     }
 ]
